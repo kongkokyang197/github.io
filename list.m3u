@@ -2684,3 +2684,440 @@ tvbus://62sKmLopCUohviRGrtnv2sD37k62ba8TmDVoNDS5JbxtXyyCt8Gxq1Q2bBnDJ
 #EXTINF:-1,bayontv
 tvbus://3sr96jjB4TWbEokjVpwWNViYEAafKhkKwFeMQx9uEji1ygcBgjk7HniLjTb3F
 #
+#EXTM3U
+#EXTINF:-1,1 ELTA影劇
+tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
+#EXTINF:-1,2 ELTA綜合
+tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
+#EXTINF:-1,3 中視經典
+tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
+#EXTINF:-1,4 探索频道亞洲
+tvbus://5VBcbUCJXNi2HkYD1f5MXD6QpZjqWst6kkytcp9xh6oFUoWRwm7FBsQzmat5s
+#EXTINF:-1,5 CNN
+tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
+#EXTINF:-1,6 民視
+http://seb.sason.top/ptv/ftv.php?id=ms#rtmp://59.124.75.156:1935/sat/tv051#rtmp://59.124.75.156/sat/tv052#rtmp://59.124.75.156/sat/tv051#tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd#rtmp://59.124.75.157/sat/tv051#https://playks-flv.shangzhibo.tv/onelive/10254572-UHM82R_e6.flv
+#EXTINF:-1,7 人間衛視
+tvbus://5uA9xkrnZnnrQq4kwjDfkEvX9m1h929DSFnFiJACuAXDiyKWDh8Mv2QEMwzvn
+#EXTINF:-1,8 台視
+rtmp://59.124.75.156:1935/sat/tv071#rtmp://59.124.75.156/sat/tv071#rtmp://59.124.75.156/sat/tv072#mitv://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts#P2p://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts#tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc#https://playks-flv.shangzhibo.tv/onelive/10254602-vlzmgAW-x.flv
+#EXTINF:-1,9 大愛
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8#mitv://147.135.39.171:9906/5e6003e8000acb9e529f929c58ca20eb.ts#P2p://147.135.39.171:9906/5e6003e8000acb9e529f929c58ca20eb.ts#tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
+#EXTINF:-1,10 中視
+rtmp://59.124.75.156:1935/sat/tv091#rtmp://59.124.75.156/sat/tv091#rtmp://59.124.75.156/sat/tv092#mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts#tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#rtmp://59.124.75.157/sat/tv091#http://v3948069e.live.126.net/live/us01/tw20200114zhongshi.flv
+#EXTINF:-1,11 霹靂台灣台
+tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
+#EXTINF:-1,12 華視
+rtmp://59.124.75.156/sat/tv111#rtmp://59.124.75.156/sat/tv112#rtmp://59.124.75.156:1935/sat/tv111#mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts#tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx
+#EXTINF:-1,13 公視
+mitv://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts#tvbus://65FCDZWSMR4G6PQau23gbRnMATae9xv371pWKZxaon6wRYE8faLrMmVmiaGc5
+#EXTINF:-1,14 公視台語台
+tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
+#EXTINF:-1,15 好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8#tvbus://6YiSzVwiq16zWXXvnKrCoi9nJQBL1cfceKLV98aieTr7mdfg4rbwkfw8WHn5w
+#EXTINF:-1,16 原民電視台
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#mitv://ns2.hellotvvod.com:9906/5fd0b6af0008bd4470e0484d67f83ae2.ts#tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
+#EXTINF:-1,17 客家電視台
+mitv://ns2.hellotvvod.com:9906/5fce4ce900062b2067731a3159531ad6.ts#tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
+#EXTINF:-1,18 國家地理頻道
+mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts#rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1,19 Discovery探索頻道
+tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F#tvbus://6Txg1fvUdyUvVQMo9yNXBTh1uwokDAqG4fD9X8Ww6tthHGKtUMjAy1ARQRyB7#rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1,20 TLC 旅遊生活頻道
+P2p://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts#tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
+#EXTINF:-1,21 動物星球頻道
+tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
+#EXTINF:-1,22 CN卡通頻道
+P2p://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts#tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
+#EXTINF:-1,23 迪士尼頻道
+P2p://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts#tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX
+#EXTINF:-1,24 momo親子台
+P2p://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts#tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn
+#EXTINF:-1,25 東森幼幼台
+tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd
+#EXTINF:-1,26 緯來綜合台
+P2p://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts#tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7
+#EXTINF:-1,27 八大第一台
+mitv://ns2.hellotvvod.com:9906/5fc8a0420006e4ca5148a4155c5a661f.ts#tvbus://5cn9j1kJ9kuy7UYaPW6MPuDZ2YjZ5qWU6uQTvWehGFjRoujhsZkt6RrrTSKuP
+#EXTINF:-1,28 八大綜合台
+tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q
+#EXTINF:-1,29 三立台灣台
+p5p://0198.02686.cc:16871/5f2e5ac20001f0ec1d8bb39b46c4cc49.ts#tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF
+#EXTINF:-1,30 三立都會台
+tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY
+#EXTINF:-1,31 衛視中文台
+mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts#mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts#tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW
+#EXTINF:-1,32 東森綜合台
+tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z
+#EXTINF:-1,33 東森超視
+rtmp://59.124.75.156:1935/sat/tv771#rtmp://59.124.75.156/sat/tv772#rtmp://59.124.75.156/sat/tv771#tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH#http://v3948069e.live.126.net/live/us01/hk20200114dongsenchaoshi.flv
+#EXTINF:-1,36 中天綜合台
+tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN
+#EXTINF:-1,39 中天娛樂台
+mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts#tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R
+#EXTINF:-1,40 東森戲劇台
+tvbus://5oVqYGutbkbRbkZa9DXwjDtAjLHMQ2V8HZ5EF73Zy8jcYEZbJAr2HURvqftBL
+#EXTINF:-1,41 八大戲劇台
+mitv://ns2.hellotvvod.com:9906/5fc8a12900013eaf514c28f64701660a.ts#tvbus://5upkUXxwXcjLDtUuffF2ZPfQiCEbDgvhbP8GU7yocirn9qrfRsvjZeq3uaER9
+#EXTINF:-1,42 TVBS歡樂台
+rtmp://59.124.75.156:1935/sat/tv421#rtmp://59.124.75.156/sat/tv421#rtmp://59.124.75.156/sat/tv422#tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo#rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1,43 緯來戲劇台
+mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts#P2p://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
+#EXTINF:-1,44 高點綜合
+P2p://147.135.39.171:9906/5ede79e400080386baa19dd37ef10dd6.ts#tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
+#EXTINF:-1,49 壹新聞
+http://stream.nexttv.com.tw/n001/hd/live.m3u8#mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts#P2p://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts#tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP
+#EXTINF:-1,51 東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8#tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk#https://playks-flv.shangzhibo.tv/onelive/10274348-fLDE1AT9a.flv#http://v3948069e.live.126.net/live/us01/tw20200114dongsennews.flv
+#EXTINF:-1,52 中天新聞
+tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS#http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1,53 民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8#mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#tvbus://6jFetiFjCWXsqPDsuGyy49zbmRtbHmkoosUuDtmYR4W89jPaxqfeRLScGUYwB#http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1,54 三立新聞
+tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ#tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC
+#EXTINF:-1,55 TVBS新聞台
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8#rtmp://59.124.75.156:1935/sat/tv551#tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB#rtmp://59.124.75.156/sat/tv551#http://v3948069e.live.126.net/live/us01/hk20200114tvbnews.flv
+#EXTINF:-1,56 TVBS
+tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK#https://playks-flv.shangzhibo.tv/onelive/10266183-953d2q6wK.flv
+#EXTINF:-1,57 東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8#rtmp://59.124.75.156:1935/sat/tv571#rtmp://59.124.75.156/sat/tv571#rtmp://59.124.75.156/sat/tv572#mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts#P2p://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB#rtmp://59.124.75.157/sat/tv571#https://playks-flv.shangzhibo.tv/onelive/10253812-GHXvLPJPu.flv
+#EXTINF:-1,58 非凡新聞
+mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts#P2p://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts#tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q#https://playks-flv.shangzhibo.tv/onelive/10253685-1hLl2zn8M.flv
+#EXTINF:-1,61 衛視電影台
+mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts#tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
+#EXTINF:-1,62 東森電影台
+P2p://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts#tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
+#EXTINF:-1,63 緯來電影台
+mitv://147.135.39.171:9906/5e9b449a00082550b418f99837b132a5.ts#tvbus://5XDwXtHqpxQFkV9kv3JUroUu9bQnDJrSHwAPbt3EETaQi8TjL9rBBpF9wRsAF
+#EXTINF:-1,64 LS龍祥電影台
+mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts#P2p://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts#tvbus://6LPRczsLaX5Zg1GATf3R7g3osN4z6dcFHa5E17sM1keh6C3bc64jpUv2MxMFM
+#EXTINF:-1,65 HBO
+mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts#P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts#tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
+#EXTINF:-1,66 東森洋片台
+tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My#rtmp://v3948069e.live.126.net/live/hdhhxhsgxhjshyrgfzhsf/mszb2021dsypabcd.flv
+#EXTINF:-1,67 AXN
+tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw
+#EXTINF:-1,68 好萊塢電影台
+tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
+#EXTINF:-1,69 FOX MOVIES
+tvbus://5i2AgQmMgxMdEnaVsmcjNpedPxdUphJdSg9CcuBRRLyh6uTYt5CXnrLBT76vP
+#EXTINF:-1,70 CINEMAX
+P2p://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U#mitv://fccsovh.pvbox.live:18912/5b14096000043ff93465352634ceaed5.ts#mitv://fccseuro.pvbox.live:18912/5b14096000043ff93465352634ceaed5.ts
+#EXTINF:-1,71 緯來育樂台
+rtmp://59.124.75.156:1935/sat/tv701#rtmp://59.124.75.156/sat/tv701#rtmp://59.124.75.156/sat/tv702#mitv://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts#P2p://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts#rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1,72 緯來體育台
+rtmp://59.124.75.156:1935/sat/tv721#rtmp://59.124.75.156/sat/tv721#rtmp://59.124.75.156/sat/tv722#mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts#tvbus://6dvyXxrgyK2SDTDRbvo7eZiZkn4oVBnttCRazMcjvfriVd29d1ihd7ZBwAah2#http://v3948069e.live.126.net/live/us01/tw20200114weilaitiyu.flv
+#EXTINF:-1,73 Eleven Sport 1
+tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P
+#EXTINF:-1,74 Eleven Sport 2
+tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL#rtmp://59.124.75.156:1935/sat/md051#rtmp://59.124.75.156/sat/md051#rtmp://59.124.75.157/sat/md051
+#EXTINF:-1,75 MOMO綜合台
+rtmp://59.124.75.156:1935/sat/tv761#rtmp://59.124.75.156/sat/tv761#rtmp://59.124.75.156/sat/tv762#rtmp://59.124.75.157/sat/tv761
+#EXTINF:-1,76 FOX體育
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#P2p://147.135.39.171:9906/5e5a0c21000ae2fd3b4fb144005e7ca2.ts#tvbus://6ZoiQNkhZSPfY9s3VffwMPXEusncCbcjNAu7vKNZTtdhdZ76CfFMd13z4ABBH
+#EXTINF:-1,77 緯來日本台
+rtmp://59.124.75.156/sat/tv521#rtmp://59.124.75.156:1935/sat/tv521#rtmp://59.124.75.156/sat/tv522#mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts#tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8
+#EXTINF:-1,78 國興衛視
+P2p://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts#tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
+#EXTINF:-1,79 FOX
+tvbus://6YLw3eozv6kQqv9CcB3Vneu2Tt5qkSjUUxQLaAfiS5dy8oAwi7MAjrk1GbxN1
+#EXTINF:-1,81 Z頻道
+tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq
+#EXTINF:-1,82 Animax
+P2p://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
+#EXTINF:-1,83 MTV_Live
+tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+#EXTINF:-1,84 viutv
+tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR#tvbus://6XEzrL9EgziDNo1iTdiBAsSJ6MEkTr4ApWE7GzeBNsUDLsXAGacdkMwWkq17A
+#EXTINF:-1,86 三立綜合台
+tvbus://5wxNvjVtyjVq39hnew1Y55rvTnU1ULS9nuomHn6rSYkt23wSfNvscKmvCpFe8
+#EXTINF:-1,88 八大娛樂台
+mitv://ns2.hellotvvod.com:9906/5fc8a042000108b55148a28f693f3237.ts#tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
+#EXTINF:-1,89 iNEWS
+http://seb.sason.top/sc/slinews_fhd.m3u8#tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
+#EXTINF:-1,90 非凡商業台
+tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
+#EXTINF:-1,91 FOX體育2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1,95 NHK
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,101 信吉電視台
+tvbus://6L2fCTYcrs5mczG5gBGvqUB5kbm8HpHvzPJwX5LUdXuNCh6Yee6tswSUFEKwr
+#EXTINF:-1,102 華藏電視台
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8#tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+#EXTINF:-1,104 三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1,110 天良綜合台
+tvbus://6HuWv4rr8ssXkk8Jispkger9oL3rzFF2xYh8gbfC8po3a7nQQKir5PWgdG33N
+#EXTINF:-1,113 華視教育體育文化台
+tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
+#EXTINF:-1,122 靖天電影
+tvbus://5TwdQ9cS9ytejmgT77nfnGW7xYuXtGxFqeeUjhgp79yQtamqBuxYkmY4FLLbe
+#EXTINF:-1,123 國會頻道1台
+mitv://ns2.hellotvvod.com:9906/5fce495800059b6767652baa76092132.ts
+#EXTINF:-1,124 國會頻道2台
+mitv://ns2.hellotvvod.com:9906/5fce4957000ed2dc67652a14758711c2.ts
+#EXTINF:-1,127 ELTA體育1台
+tvbus://5NTfiiK2rBLvUCEpGRuWd4zKchfZoMGpK6Be9BsWUzyytKqNtpw8bWK7tZyjb#rtmp://59.124.75.157/sat/md011
+#EXTINF:-1,128 ELTA體育2台
+tvbus://6eUVgb2q6mR2wN3TuPNmKkqPmQvzaqgQQS6KEqahbV6rRSz1GSabpqWfnoCwb#tvbus://5iaCMsScXr5BP82USvKuvUMnVT3ZCxqHrpxA5Ar8RnqW2t5iEsRPKjX4UjmM7#rtmp://59.124.75.156:1935/sat/md041
+#EXTINF:-1,129 ELTA體育3台
+tvbus://63GPxtiHLwo8KLGyPnjBQnTYgHyFUf2PHDwJfH8szh5gGhshnZZQV8ZagBirm#tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
+#EXTINF:-1,130 唯心電視台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8#mitv://ns2.hellotvvod.com:9906/5fb544b000038cb405aaf0db644b5bd0.ts#tvbus://6CMNBstbRzcdJbY7gDd6LwuXWB7ebiwehwqiwHzYtfCwLkkTCYM1pRggPCZHG
+#EXTINF:-1,131 Eurosp1
+tvbus://5vuZqZCyWNbmMosYWFUHFpKcjaKsDYz7CPKMCEBd9tLGKKA4D8kBqphgq6SXf
+#EXTINF:-1,132 Eurosp2
+tvbus://5Za3uPb1YTSR3kVaZCo1iJUk4pqCT7ECiGNELwAynTkY692gfqGnV6h9YEeBL
+#EXTINF:-1,133 FOX Action
+tvbus://6EPSdeqvXNb7KLxD89cY9miiqJ9Ug4fneLZQwmcwvdNYNitf7SnQaT923uaCf
+#EXTINF:-1,135 龍華戲劇
+tvbus://5bBUJ3ztc56iCX5ZBkbapFa2Be5D7LXUi2sa6F29oghRGfcnS3sUXZGogQLTU
+#EXTINF:-1,136 龍華動畫
+tvbus://61YbuC57vn89TinNh2chcuyhwV1QVQCiNwKLMsrzLiJTKNCry5iJRZGS7yQWb
+#EXTINF:-1,137 龍華電影
+tvbus://6LwUVDeFb8Jsbakw6NkRVBFAA5KgeehuDN64LJKBiNRUVHAB7r42TWHiSTgsL
+#EXTINF:-1,139 WBTV華納電影
+mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts#tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
+#EXTINF:-1,141 寰宇新聞台灣台
+tvbus://5wxL2ywZEn7YoKudKyqbJtKaL2Qj3DL4wjjq5BQ7NQCjJoC2YKg21Xwz7tU27
+#EXTINF:-1,142 壹綜合
+P2p://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts#tvbus://6JoHPN2vJPd74ovcY8E7CegLmiCbQjEYzrRVVkihK18qTR8giDMX1eqzQaGNn#mitv://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts
+#EXTINF:-1,144 NBA
+tvbus://6jVrf9r92hKsQCPqqCiEgETKVK8wcjcwJNQH9j46aWB5r8NqA6HufS5n6a6jX
+#EXTINF:-1,145 FOX犯罪CRIME
+tvbus://5SfH5CqHH7Caop9yq7RPojibWTmSthiuZgcoAzjJ4zakagDu6mDGnV1Rz5XPP
+#EXTINF:-1,147 TVBS精采台
+tvbus://6XbZPjUSREcXYoh1NWQ6LmTHS54rREPg8e4kEnWaHzcRZaspKcN5h9HxPGgM4
+#EXTINF:-1,148 衛視西片
+mitv://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts#mitv://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
+#EXTINF:-1,149 DMAX
+mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts#P2p://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts#tvbus://874a6KPRGwFtaEE5NnSUG4SpLz4nLvTYyypYupFCsw3UUSvmSi
+#EXTINF:-1,150 民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1,151 民視第一台
+http://seb.sason.top/ptv/ftv.php?id=dy#tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+#EXTINF:-1,152 民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+#EXTINF:-1,153 中視菁采台
+tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
+#EXTINF:-1,154 中視新聞台
+http://seb.sason.top/sc/zsxw_fhd.m3u8#tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
+#EXTINF:-1,155 台視新聞台
+http://seb.sason.top/sc/tsxw_fhd.m3u8#tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
+#EXTINF:-1,156 台視財經台
+tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
+#EXTINF:-1,157 台視綜合台
+tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
+#EXTINF:-1,159 民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1,160 民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1,161 國家地理悠人
+tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
+#EXTINF:-1,163 WWE
+tvbus://69jvf5kMznUvkAByoJzjszmeEKiXzzgP1JXWLHUqwH9DZJUEqxQ2NbpwzyvE3
+#EXTINF:-1,164 罪案偵緝頻道
+tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
+#EXTINF:-1,165 天映經典
+tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
+#EXTINF:-1,166 天映
+tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
+#EXTINF:-1,167 生命台
+http://61.216.67.119/lifetv/LTV1/playlist.m3u8
+#EXTINF:-1,169 高爾夫美國
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,170 美亞電影台
+tvbus://6fXbnEVt2xue4aYZga9ER8ftVvU1tycYH4S4rqjBgsmGSu6WrAFcD8cQUVgiG
+#EXTINF:-1,171 大愛海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1,172 歷史2
+tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
+#EXTINF:-1,173 優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8#http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/chunklist.m3u8
+#EXTINF:-1,175 新唐人美東台
+https://live.ntdimg.com/live400/playlist.m3u8#http://174.127.67.246/live330/playlist.m3u8
+#EXTINF:-1,176 新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8#http://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1,177 新唐人加東台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1,178 新唐人加西台
+https://live.ntdimg.com/cwlive220/playlist.m3u8
+#EXTINF:-1,179 新唐人舊金山台
+https://live.ntdimg.com/sflive990/playlist.m3u8
+#EXTINF:-1,180 新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1,181 新唐人中國台
+https://live2.ntdimg.com/cnlive/playlist.m3u8
+#EXTINF:-1,182 鳳凰電影
+mitv://147.135.39.171:9906/5e9b4e750002f3b7b43f77c81486506f.ts
+#EXTINF:-1,183 亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
+#EXTINF:-1,184 Red Bull TV
+http://kean-hoe.gq/keanhoe/dl/tangyuan/dl_pass.php?kean=kean_redbull#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,185 France 24
+http://kean-hoe.gq/keanhoe/dl/tangyuan/dl_pass.php?kean=kean_France24
+#EXTINF:-1,186 中天亞洲
+mitv://147.135.39.171:9906/5defdaa000044ff26ea064ef7ec56d18.ts
+#EXTINF:-1,187 東森亞洲
+mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts#P2p://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
+#EXTINF:-1,190 Fashion TV
+P2p://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
+#EXTINF:-1,191 Baby TV
+mitv://ns2.hellotvvod.com:9906/5fc89fa60001bc4a5146415e6c991130.ts
+#EXTINF:-1,194 EYE TV旅遊
+tvbus://6jAFC7WRYVnfPVGizQpwkrkwMXwj43JxqhQFPLSXP4ww7Q5mbNv9irAbmKJBc
+#EXTINF:-1,199 智林體育台
+mitv://ns2.hellotvvod.com:9906/5fce471a0001d214675c68806e5511ad.ts
+#EXTINF:-1,200 公視3台
+tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
+#EXTINF:-1,201 MOMO追劇台
+P2p://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e.ts
+#EXTINF:-1,202 Bloomberg
+tvbus://5ZWLDsAVxRa11Q7RLtDw4RTrCTk4X9L7FZiv6PBJQnwvysmKsEk2ixvQ5BB7L
+#EXTINF:-1,204 Boomerang卡通台
+tvbus://8YuJE9sdG8s4GS6QobPiDT6Y62DUJnEagvdHL5MJdig5KMmuGF
+#EXTINF:-1,207 BBC Earth
+tvbus://5jkr9rqSSwpXVNyXbTcvXFzDoVRmBRccFcm4rPbbs59pWNerQZKtingMexZ4m
+#EXTINF:-1,209 國家地理野生
+tvbus://5oRJxmZ4F1mga6wmLhCEkCZDiJWrbydZc9rvG4eynVwHRLqgKW38fVjchKJML#http://v3948069e.live.126.net/live/us01/tw20200114guojiayesheng.flv
+#EXTINF:-1,210 Discovery科學頻道
+tvbus://6KC6sWoijKPxJj8XcFzYLTnhjTchqeGSQa8dVwajH2m4UHECcMd49yCFE9pq2
+#EXTINF:-1,211 tvN
+tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
+#EXTINF:-1,215 韓國娛樂台KMTV
+tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
+#EXTINF:-1,222 寰宇新聞台
+mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts#P2p://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts#tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c#https://playks-flv.shangzhibo.tv/onelive/10254183-CCb1GtsUC.flv
+#EXTINF:-1,223 亞洲旅遊台
+tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM
+#EXTINF:-1,224 BBC Lifestyle
+tvbus://5wefCvSVvkt2zhp4HDBEWmxbYV7g5r6Xj27bg7FJMv8o9FBdYudRNYyLVw2at
+#EXTINF:-1,225 afn亞洲美食頻道
+P2p://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
+#EXTINF:-1,227 香港開電視
+tvbus://7JEqKzQsk8dCg4NJECaPc8n11ZYLunas4nDoJG56RT7G8hs2ib
+#EXTINF:-1,230 KIX
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+#EXTINF:-1,235 HBO HD頻道
+tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP
+#EXTINF:-1,236 HBO強檔Hits
+mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts#P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts#tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
+#EXTINF:-1,237 HBO原創Signature
+mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts#P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts#tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
+#EXTINF:-1,238 HBO家庭Family
+tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw
+#EXTINF:-1,239 星衛HD電影台
+mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts#tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
+#EXTINF:-1,240 衛視電影
+mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+#EXTINF:-1,241 FOX Family家庭
+tvbus://6geZ8Q1FXN7tbD8UFaBcjsSJeDCkXHS6NcEdf7zx6aUfUV1vrRteXCMKvquNA
+#EXTINF:-1,242 FOX體育3
+P2p://147.135.39.171:9906/5e5a0a86000b5a873b496bec12b01e3b.ts#tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5#https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,244 博斯高球台
+tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
+#EXTINF:-1,245 博斯高球2台
+tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+#EXTINF:-1,248 博斯網球台
+tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
+#EXTINF:-1,249 博斯運動二台
+mitv://ns2.hellotvvod.com:9906/5fed9dc500071e52475a8723281a2544.ts
+#EXTINF:-1,250 博斯無限台
+tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
+#EXTINF:-1,252 GoodTV綜合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1,253 GoodTV真理台
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1,254 GoodTV真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1,255 GoodTV幸福學堂
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1,256 GoodTV愛+好醫生
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1,257 GoodTV烤箱讀書會
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1,258 GoodTV我們EYE旅行
+http://live.streamingfast.net/osmflivech11.m3u8
+#EXTINF:-1,259 GoodTV孫叔唱副歌
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1,260 GoodTV健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1,261 GoodTV真情部落格
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1,262 GoodTV真情之夜
+http://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1,263 GoodTV共享觀點
+http://live.streamingfast.net/osmflivech19.m3u8
+#EXTINF:-1,264 GoodTV恩典時分
+http://live.streamingfast.net/osmflivech20.m3u8
+#EXTINF:-1,265 GoodTV職場新視野
+http://live.streamingfast.net/osmflivech22.m3u8
+#EXTINF:-1,266 GoodTV劉三講古
+http://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1,267 GoodTV音樂
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1,268 GoodTV經典音樂河
+http://live.streamingfast.net/osmflivech29.m3u8
+#EXTINF:-1,269 GoodTV敬拜讚美音樂
+http://live.streamingfast.net/osmflivech30.m3u8
+#EXTINF:-1,270 GoodTV福音佈道音
+http://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1,271 GoodTV末世禱告運動
+http://live.streamingfast.net/osmflivech38.m3u8
+#EXTINF:-1,272 GoodTV全家歸主有良方
+http://live.streamingfast.net/osmflivech39.m3u8
+#EXTINF:-1,273 GoodTV幸福學堂
+http://live.streamingfast.net/osmflivech41.m3u8
+#EXTINF:-1,274 GoodTV幸福來敲門
+http://live.streamingfast.net/osmflivech43.m3u8
+#EXTINF:-1,275 GoodTV烤箱讀書會
+http://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1,276 GoodTV卡通
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1,277 GoodTV少年體驗隊
+http://live.streamingfast.net/osmflivech46.m3u8
+#EXTINF:-1,278 GoodTV蒙福人生
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1,279 GoodTV小小遊學生
+http://live.streamingfast.net/osmflivech48.m3u8
+#EXTINF:-1,286 三立戲劇台
+mitv://ns2.hellotvvod.com:9906/5fdcc603000df3b8058fc29a57e54474.ts
+#EXTINF:-1,292 壹電影
+mitv://ns2.hellotvvod.com:9906/5fdcb44e000ed447054a97d17bb45cfa.ts
+#EXTINF:-1,296 華視新聞資訊台
+http://seb.sason.top/sc/hsxw_fhd.m3u8#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
+#EXTINF:-1,297 大愛2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,298 好消息2台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1,299 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1,300 衛視卡式台
+tvbus://7n2hA4hJH7rqhSQ2LLs3iPh3FYu1bC7sEBjEf4fDLV4Gp5LpSJ#tvbus://6H9Sd3UuK8sb5xSWCM7xbRhGstVdLsTYEgpVSobHd4j1VkreoD5YMiQxxQtqT
+#EXTINF:-1,301 鳳凰中文台
+tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
+#EXTINF:-1,302 明珠台
+tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+#EXTINF:-1,303 TVB星河台
+tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ#tvbus://8fuc6VjMBvFLhmtDmgbKXyWrTBWK8D9FquiW7gQu4jVuA2Kb36
+#EXTINF:-1,304 NOWTVHD
+tvbus://5kGBTYcpcvpsaR38XS8eF9unJCn792pGR5ARKB68BYQhKvASmXV5nu2HXsAQk
+#EXTINF:-1,306 澳門蓮花台
+tvbus://5VfJjmt3n4dTw16nE3SRrVE2HN32CR5J1RrMax2FPEvAB1v5upgJvpEMVFvau
+#EXTINF:-1,307 MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,308 MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1,310 彭博財經頻道HD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,311 CNBC Asia
+tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5xspipEdxZi
+#EXTINF:-1,316 MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1,317 MTV Spankin\\\' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1,318 MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1,FS2
+tvbus://6W2ozVmfTVdGadVhv6F75zwX5VYtnKAvYxri9bnd9WxsUyFhtScGgbuXKxXBe
